@@ -1,26 +1,26 @@
 大数据(如：Flink、Hive、HBase、Storm、Hadoop、Spark 等)相关
 =======================================================
 
-### Flink 相关
+### Apache Flink — 是高效和分布式的通用数据处理平台
 - Flink
 
 
-### Hive 相关
+### Apache Hive — 该数据仓库软件有助于使用 SQL 读取，写入和管理驻留在分布式存储中的大型数据集
 - Hive
 
 
-### HBase 相关
+### HBase — 是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统
 - HBase
 
 
-### Storm 相关
+### Apache Storm — Storm 是一个分布式实时大数据处理系统。Storm 设计用于在容错和水平可扩展方法中处理大量数据。它是一个流数据框架，具有最高的摄取率
 - Storm
 
 
-### Hadoop 相关
+### Hadoop — 是一个分布式系统基础架构，由 Apache 基金会开发。用户可以在不了解分布式底层细节的情况下，开发分布式程序。充分利用集群的威力高速运算和存储
 - Hadoop
 
 
-### Spark 相关
+### Apache Spark — 是专为大规模数据处理而设计的快速通用的计算引擎
 - Spark
 
