@@ -15,6 +15,9 @@
 - Redis 面试 8 连问，你能顶住几道：https://zhuanlan.zhihu.com/p/260391498
 - 如何保证 Redis 高并发、高可用：https://zhuanlan.zhihu.com/p/142832200
 - 你是否知道Redis为什么有16 个数据库：https://zhuanlan.zhihu.com/p/100400963
+- Redis详解（十三）------ Redis布隆过滤器：https://www.cnblogs.com/ysocean/p/12594982.html
+- 缓存穿透、雪崩、热点击穿问题：https://www.jianshu.com/p/090c8767ffea
+
 
 
 ### PostgreSQL 相关
