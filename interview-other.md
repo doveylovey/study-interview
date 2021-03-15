@@ -1,5 +1,9 @@
 其他
 ====
+- 手把手带你源码分析 HashMap 1.7：https://blog.csdn.net/carson_ho/article/details/79373026
+- 关于 HashMap 1.8 的重大更新：https://blog.csdn.net/carson_ho/article/details/79373134
+- 美团面试题：Hashmap的结构，1.7和1.8有哪些区别，史上最深入的分析：https://blog.csdn.net/qq_36520235/article/details/82417949
+- Java源码分析：HashMap 1.8 相对于1.7 到底更新了什么：https://www.jianshu.com/p/8324a34577a0?utm_source=oschina-app
 - Java并发编程原理 - Unsafe && LockSupport类及AQS同步器的设计：https://www.jianshu.com/p/d01d5f143a36
 - Java的CAS乐观锁原理解析：https://www.jianshu.com/p/e071623e86f9
 - FutureTask 核心源码解析：https://www.jianshu.com/p/80d1d78d4096
